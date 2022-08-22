@@ -1,3 +1,3 @@
-module github.com/bmovo/GoMisc
+module github.com/bmovo/goMisc
 
 go 1.19
